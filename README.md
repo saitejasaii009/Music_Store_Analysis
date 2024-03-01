@@ -17,6 +17,7 @@ Database: The music playlist database, which contains crucial information about 
 **Querying the Database :** Using SQL queries, we will extract specific data points and perform calculations to derive meaningful insights.
 
 **Business Analysis :** By interpreting the results of our queries, we aim to provide actionable recommendations for the music store to enhance its operations and customer experience.
+
 **Expected Outcomes :**
 Upon completion of this project, we anticipate uncovering valuable insights regarding the music store's sales patterns, popular genres, customer demographics, and overall business performance. These insights will enable the store to make informed decisions and optimize its strategies for sustainable growth and customer satisfaction.
 In conclusion, this project serves as a practical demonstration of the power of SQL in extracting actionable intelligence from complex datasets. By leveraging MYSQL Work Bench and the provided CSV files, we are poised to unlock valuable insights that can drive strategic decision-making for the music store.
